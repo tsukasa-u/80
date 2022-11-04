@@ -14,8 +14,8 @@ daisuke1515@stu.kanazawa-u.ac.jp">
 daisuke1515@stu.kanazawa-u.ac.jp
 </a>
 
+  北見涼
 <a href="
 daisuke1515@stu.kanazawa-u.ac.jp">
-  北見涼
 takaws0510@gmail.com
 </a>
