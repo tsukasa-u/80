@@ -16,7 +16,7 @@ tsukasa-u
 ogu.hide.u@gmail.com
 </a>
 
-
+<img href="https://avatars.githubusercontent.com/u/68099974?v=4" />
 Daisuke SUZUKI
 :
 <a href="daisuke1515@stu.kanazawa-u.ac.jp">
