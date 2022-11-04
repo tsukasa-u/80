@@ -8,6 +8,12 @@
 
 # Member
 
+tsukasa-u
+<a href="
+ogu.hide.u@gmail.com">
+ogu.hide.u@gmail.com
+</a>
+
 Daisuke SUZUKI 
 <a href="
 daisuke1515@stu.kanazawa-u.ac.jp">
@@ -20,8 +26,8 @@ takaws0510@gmail.com">
 takaws0510@gmail.com
 </a>
 
-tsukasa-u
+Kouta Suzuki
 <a href="
-ogu.hide.u@gmail.com">
-ogu.hide.u@gmail.com
+">
+unknown
 </a>
