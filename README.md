@@ -2,7 +2,7 @@
 80ちゃん
 
 # Original path
-<a href="https://drive.google.com/drive/u/0/folders/19vBwXucsIokRlx7sUrJF8FMKlW8F601F">
+<a width="16px" height="16px" href="https://drive.google.com/drive/u/0/folders/19vBwXucsIokRlx7sUrJF8FMKlW8F601F">
   SWDHY for Google Drive
 </a>
 
@@ -17,7 +17,7 @@ tsukasa-u
 ogu.hide.u@gmail.com
 </a>
 
-<img sec="https://avatars.githubusercontent.com/u/68099974?v=4">
+<img src="https://avatars.githubusercontent.com/u/68099974?v=4">
 Daisuke SUZUKI
 :
 <a href="daisuke1515@stu.kanazawa-u.ac.jp">
