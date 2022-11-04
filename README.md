@@ -12,7 +12,7 @@
 tsukasa-u
 </a>
 :
-<a href="ogu.hide.u@gmail.com">
+<a src="ogu.hide.u@gmail.com">
 ogu.hide.u@gmail.com
 </a>
 
