@@ -8,7 +8,7 @@
 
 # Member
 
-<img width="16px" height="16px" src="https://avatars.githubusercontent.com/u/68099974?v=4">
+<img width="32px" height="32px" src="https://avatars.githubusercontent.com/u/68099974?v=4">
 <a href="https://github.com/tsukasa-u">
 tsukasa-u
 </a>
@@ -17,7 +17,7 @@ tsukasa-u
 ogu.hide.u@gmail.com
 </a>
 
-<img src="https://avatars.githubusercontent.com/u/68099974?v=4">
+<img width="32px" height="32px" src="https://avatars.githubusercontent.com/u/68099974?v=4">
 Daisuke SUZUKI
 :
 <a href="daisuke1515@stu.kanazawa-u.ac.jp">
