@@ -8,13 +8,13 @@
 
 # Member
 
-  Daisuke SUZUKI 
+Daisuke SUZUKI 
 <a href="
 daisuke1515@stu.kanazawa-u.ac.jp">
 daisuke1515@stu.kanazawa-u.ac.jp
 </a>
 
-  北見涼
+北見涼
 <a href="
 daisuke1515@stu.kanazawa-u.ac.jp">
 takaws0510@gmail.com
