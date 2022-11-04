@@ -7,9 +7,10 @@
 </a>
 
 # Member
+
+  Daisuke SUZUKI 
 <a href="
 daisuke1515@stu.kanazawa-u.ac.jp">
-  Daisuke SUZUKI 
 daisuke1515@stu.kanazawa-u.ac.jp
 </a>
 
