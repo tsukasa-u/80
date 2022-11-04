@@ -9,7 +9,7 @@
 # Member
 
 <a href="https://github.com/tsukasa-u">
-<img width="32px" height="32px" src="https://avatars.githubusercontent.com/u/68099974?v=4">
+<img width="32px" height="32px" src="[https://avatars.githubusercontent.com/u/68099974?v=4](https://github.com/account)">
 </a>
 
 tsukasa-u :
