@@ -58,7 +58,6 @@
       <td>Kouta Suzuki</td>
       <td>
         <a href="takaws0510@gmail.com">
-          
         </a>
       </td>
     </tr>
