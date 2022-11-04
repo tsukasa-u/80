@@ -16,6 +16,12 @@ daisuke1515@stu.kanazawa-u.ac.jp
 
 北見涼
 <a href="
-daisuke1515@stu.kanazawa-u.ac.jp">
+takaws0510@gmail.com">
 takaws0510@gmail.com
+</a>
+
+tsukasa-u
+<a href="
+ogu.hide.u@gmail.com">
+ogu.hide.u@gmail.com
 </a>
