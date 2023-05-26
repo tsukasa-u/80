@@ -39,10 +39,10 @@
     <tr>
       <td>
         <a href="#">
-          <img width="32px" height="32px" src="#">
+          <img width="32px" height="32px" src="https://avatars.githubusercontent.com/u/74863328?v=4">
         </a>
       </td>
-      <td>北見涼</td>
+      <td>knecews</td>
       <td>
         <a href="takaws0510@gmail.com">
           takaws0510@gmail.com
